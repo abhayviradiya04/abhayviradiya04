@@ -7,14 +7,6 @@
 
 ---
 
-## 🚀 Current Focus
-
-- 🔧 Developing a **Society Management System** using ASP.NET & React
-- 🛍️ Building a **MERN Stack E-commerce Clothing Website**
-- 🧠 Exploring **AI-powered chatbots** and **Handwritten Digit Recognition** with Flask & Streamlit
-
----
-
 ## 🔥 Skills & Interests
 
 - **🧠 Machine Learning** — Scikit-learn, NumPy, Pandas, Matplotlib  
@@ -28,7 +20,6 @@
 ## 📌 Goals
 
 - 🔹 Contribute to Open Source Projects  
-- 🔹 Master **AI/ML** algorithms and real-world deployment  
 - 🔹 Build SaaS-level full-stack applications  
 - 🔹 Share knowledge via GitHub & blogs
 
